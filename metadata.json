@@ -1,0 +1,5 @@
+{
+  "name": "Loop Chat",
+  "description": "A real-time anonymous chat application where users can connect with random strangers.",
+  "requestFramePermissions": []
+}
